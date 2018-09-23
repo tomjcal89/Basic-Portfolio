@@ -119,12 +119,23 @@ h3 {
 
 
 /* Footer */
-.footer {
-    text-align: right;  
-    padding: 20px;
-    background-color: black;
+
+#footer1 {
+    
+    padding: 4px;
+    background-color: maroon;
     position: sticky;
     margin-top: 20px;
+
+
+}
+
+#footer2 {
+    text-align: right;  
+    padding: 20px;
+    padding-top:0;
+    background-color: black;
+    position: sticky;
     color: white;
     font-size: 10px;
     
