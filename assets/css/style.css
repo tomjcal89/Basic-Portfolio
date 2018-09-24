@@ -44,8 +44,8 @@ nav bar with the main content of the page. still havent fully figured this out *
 
 a:hover  {
     background-color: maroon ;
-    padding-top: 20px;
-    padding-bottom:20px;
+    padding-top: 17px;
+    padding-bottom:17px;
     padding-left: 2px;
     padding-right: 2px;
 }
