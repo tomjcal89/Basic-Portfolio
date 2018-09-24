@@ -15,8 +15,7 @@ header {
     background: black;
 }
 
-/* Spent countless hours trying to figure out how to align the name and items on
-nav bar with the main content of the page. still havent fully figured this out */
+/* Main content of site- about me, contact dimentions, portfolio dimentions */
 #inner, #main-section {
     max-width: 960px;
     margin: auto;   
